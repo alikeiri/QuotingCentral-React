@@ -1,0 +1,132 @@
+.feature-card11-feature-card {
+  width: 100%;
+  display: flex;
+  padding: 0px;
+  max-width: auto;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  transition: 0.3s;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-900);
+  border-width: 1px;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.feature-card11-feature-card:hover {
+  transform: scale(1.02);
+}
+.feature-card11-text {
+  align-self: center;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.feature-card11-image {
+  width: 139px;
+  height: 139px;
+  align-self: center;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-bottom: var(--dl-space-space-unit);
+}
+.feature-card11-root-class-name {
+  max-width: auto;
+}
+.feature-card11-root-class-name1 {
+  max-width: auto;
+}
+.feature-card11-root-class-name2 {
+  max-width: auto;
+}
+.feature-card11-root-class-name3 {
+  max-width: auto;
+}
+.feature-card11-root-class-name4 {
+  max-width: auto;
+}
+.feature-card11-root-class-name5 {
+  max-width: auto;
+}
+.feature-card11-root-class-name6 {
+  max-width: auto;
+}
+.feature-card11-root-class-name7 {
+  max-width: auto;
+}
+.feature-card11-root-class-name8 {
+  max-width: auto;
+}
+.feature-card11-root-class-name9 {
+  max-width: auto;
+}
+.feature-card11-root-class-name10 {
+  max-width: auto;
+}
+.feature-card11-root-class-name11 {
+  max-width: auto;
+}
+.feature-card11-root-class-name12 {
+  max-width: auto;
+}
+.feature-card11-root-class-name13 {
+  max-width: auto;
+}
+.feature-card11-root-class-name14 {
+  max-width: auto;
+}
+.feature-card11-root-class-name15 {
+  max-width: auto;
+}
+.feature-card11-root-class-name16 {
+  max-width: auto;
+}
+.feature-card11-root-class-name17 {
+  max-width: auto;
+}
+.feature-card11-root-class-name18 {
+  max-width: auto;
+}
+.feature-card11-root-class-name19 {
+  max-width: auto;
+}
+.feature-card11-root-class-name20 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name21 {
+  width: 75%;
+  max-width: auto;
+}
+.feature-card11-root-class-name22 {
+  width: 75%;
+  max-width: auto;
+}
+@media(max-width: 1200px) {
+  .feature-card11-feature-card {
+    padding: 0px;
+  }
+  .feature-card11-image {
+    width: 126px;
+    height: 126x;
+  }
+}
+@media(max-width: 991px) {
+  .feature-card11-feature-card {
+    padding: 0px;
+  }
+  .feature-card11-image {
+    width: 126px;
+    height: 126px;
+  }
+}
+@media(max-width: 479px) {
+  .feature-card11-feature-card {
+    padding: 0px;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .feature-card11-text {
+    align-self: center;
+  }
+  .feature-card11-image {
+    align-self: center;
+  }
+}
